@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>close.png</file>
+        <file>custom_icon.png</file>
+        <file>maximize.png</file>
+        <file>minimize.png</file>
+        <file>restore.png</file>
+        <file>win_standard.png</file>
+        <file>toggle - base.png</file>
+        <file>circle-xxl.png</file>
+        <file>Circle_Yellow.png</file>
+        <file>toggle - base_grey.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>AlternateGotNo3D.ttf</file>
+    </qresource>
+</RCC>
